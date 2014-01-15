@@ -464,6 +464,12 @@ return array (
       'packagePath' => 'typo3/sysext/workspaces/',
       'classesPath' => 'Classes/',
     ),
+    'additional_reports' =>
+    array (
+            'state' => 'active',
+            'packagePath' => 'typo3conf/ext/additional_reports/',
+            'classesPath' => 'Classes/',
+    ),
   ),
   'version' => 4,
 )
